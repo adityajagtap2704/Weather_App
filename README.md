@@ -17,7 +17,7 @@ A simple and clean **Weather App** built using **HTML**, **CSS**, and **JavaScri
 - OpenWeatherMap API
 
 ## 📸 Screenshots
-![HomePage](images/Screenshot 2025-04-16 162017.png)
+![HomePage](images/"Screenshot 2025-04-16 162017.png")
 
 ## 🚀 Getting Started
 
